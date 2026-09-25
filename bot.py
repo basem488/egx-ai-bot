@@ -235,7 +235,7 @@ def send_message(chat_id, text):
 
 
 # =========================
-# FORMAT SINGLE ANALYSIS
+# FORMAT ANALYSIS
 # =========================
 
 def format_analysis(x):
@@ -287,3 +287,12 @@ def format_analysis(x):
 
         f"⚠️ التحليل آلي وليس توصية استثمارية."
     )
+
+
+# =========================
+# DIRECT STOCK ANALYSIS
+# =========================
+
+def analyze_single_stock(symbol):
+
+    symbol =
