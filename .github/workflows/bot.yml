@@ -1,4 +1,4 @@
-name: Run Bot
+name: Telegram Bot Test
 
 on:
   workflow_dispatch:
