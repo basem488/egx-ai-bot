@@ -1,0 +1,9 @@
+flask>=3.1
+pandas>=2.2
+numpy>=2.0
+requests>=2.32
+pywebpush>=2.0
+yfinance>=0.2.66
+beautifulsoup4>=4.13
+lxml>=5.3
+gunicorn>=23.0
